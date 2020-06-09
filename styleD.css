@@ -78,6 +78,7 @@ header p {
 /* FOOTER */
 
 footer p {
+  letter-spacing: 4px;
   text-align: center;
   color: gray;
   margin: 60px auto;

@@ -27,4 +27,5 @@ table{
 .imagen:hover{
     /* transform:rotate(30deg) */
     transform: scale(1.2);
+    transition: 0.5s;
 }
